@@ -3,7 +3,7 @@
 ### Founder of **ToolsMaverick.cloud** | AI & Backend Engineer (Django • Python • LangGraph)
 
 <p align="center">
-  <img src="https://awaisshakeel12.pythonanywhere.com/static/images/awais_shakeel.png" alt="ToolsMaverick Logo" width="250" />
+  <img src="https://awaisshakeel12.pythonanywhere.com/static/images/awais_shakeel.png" alt="ToolsMaverick Logo" width="450" />
 </p>
 
 I am an **AI & Backend Developer** with 3+ years of experience building highly scalable SaaS products, AI agents, and Backend systems. I’m the creator & founder of **ToolsMaverick.cloud**, a multi-tool AI SaaS platform offering 70+ productivity and AI utilities.
@@ -28,7 +28,7 @@ I am an **AI & Backend Developer** with 3+ years of experience building highly s
 * 🎨 Image Tools  - Resizer 
 
 <p align="center">
-  <img src="https://toolsmaverick.cloud/static/images/favicon.png" width="90%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQEeXR-1WYua2g/feedshare-shrink_2048_1536/B4DZoAKkRvIAAw-/0/1760939371580?e=1764806400&v=beta&t=rh0FA5r2XA_vKma6_9J0Xz7mtU-I2Y4BRcP2mWN6Em0" width="70%" />
 </p>
 
 ---
