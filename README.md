@@ -92,12 +92,6 @@ I am an **AI & Backend Developer** with 3+ years of experience building highly s
 
 ---
 
-# 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AwaisShakeel&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisShakeel&layout=compact&theme=tokyonight" height="165" />
-</p>
 
 ---
 
