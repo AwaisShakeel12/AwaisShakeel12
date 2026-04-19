@@ -100,6 +100,7 @@ I am an **AI & Backend Developer** with 3+ years of experience building highly s
 * 🌐 Website: **[https://ToolsMaverick.cloud](https://ToolsMaverick.cloud)**
 * 💼 LinkedIn: **Awais Shakeel**
 * 🐙 GitHub: **github.com/AwaisShakeel**
+* https://workerscompensationright.com/
 
 ---
 
