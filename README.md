@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Awais Shakeel**
 
-### AI Software Engineer @ **ToolsMaverick.cloud** | AI & Backend Engineer (Django • Python • LangGraph)
+### AI Software Engineer @ **Cluxd** | AI & Backend Engineer (Django • Python • LangGraph)
 
 <p align="center">
   <img src="https://awaisshakeel12.pythonanywhere.com/static/images/awais1.jpg" alt="ToolsMaverick Logo" width="450" />
@@ -15,6 +15,8 @@ I am an **AI & Backend Developer** with 3+ years of experience building highly s
 > A modern SaaS platform offering intelligent AI-powered tools.
 
 ### 🌐 Visit: **[https://ToolsMaverick.cloud](https://ToolsMaverick.cloud)**
+
+🌐 Visit: **[https://cluxd.com](https://cluxd.com)**
 
 ### 🔥 Featured Tools
 
