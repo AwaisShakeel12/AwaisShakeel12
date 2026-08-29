@@ -149,18 +149,7 @@ The goal is to make the entire system reliable, maintainable, and useful — not
 
 ---
 
-## 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AwaisShakeel&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwaisShakeel&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AwaisShakeel&hide_border=true" width="95%" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
